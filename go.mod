@@ -1,3 +1,3 @@
-module github.com/tejasc0/docs-go-jenkins
+module github.com/tejasc0/docs-automated-server
 
 go 1.16
