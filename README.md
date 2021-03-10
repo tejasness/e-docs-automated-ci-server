@@ -1,9 +1,9 @@
-# docs-automated-server
+# Edit-Docs-Automated-CI-Server</br>
 
-commands to run docker container
+<h3>commands to run docker container</h3></br>
 
-docker build --pull --rm -f "Dockerfile" -t docsautomatedserver:latest "."
+docker build --pull --rm -f "Dockerfile" -t docsautomatedserver:latest "."</br>
 
-docker run --rm -d  -p 4000:4000 docsautomatedserver:latest
+docker run --rm -d  -p 4000:4000 docsautomatedserver:latest</br>
 
 address: http://localhost:4000/view/test
